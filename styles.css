@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #6c9faf;
+    padding: 10px;
+    
+}
+
+#main{
+    padding: 20px;
+    background-color: rgb(173, 233, 252);
+}
+
+h1{
+    color: #333;
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3em;
+}
+
+.info span{
+    font-weight: bold;
+    color: #333;
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.info{
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+}
+
+#image{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.img-div{
+    max-width: 1090px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0);
+    margin: 0 auto;
+}
+
+.img-caption{
+    font-size: 1.05em;
+    padding-bottom: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 0 10px;
+}
+
+.tribute-info{
+    font-size: 1.05em;
+    display: block;
+    margin: 0 auto;
+    padding: 30px 60px;
+}
+
+.details{
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.heding{
+    text-align: center;
+    font-size: 1.7em;
+    font-style:oblique;
+    border-bottom: 1px solid black;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+li{
+    padding-bottom: 10px;
+    
+}
+
+dl{
+    padding-bottom: 20px;
+}
+
+.Timeline li{
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+dd{
+    font-weight: 0.95em;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.keys li{
+    text-align: justify;
+}
+
+.referencess{
+    padding-bottom: 20px;
+    font-size: 1.05em;
+    background-color: rgb(94, 241, 241);
+    padding: 20px 30px;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.referencess a{
+    color: black;
+}
+
+.referencess a:hover{
+    color: blue;
+}
